@@ -1,0 +1,29 @@
+html {
+  background-image: url(img/slider2.jpg);
+  background-size: cover;
+}
+/* Image Backgroundnya diganti karena tidak ada link gambar yang disediakan pada tugas 8  */
+div {
+  width: 820px;
+  height: 430px;
+  overflow: scroll;
+  background-image: url(img/avocado.jpg);
+  background-repeat: repeat-y;
+  background-color: white;
+  font-size: 21px;
+  font-weight: 700;
+  border: 1px solid black;
+  background-size: 340px;
+}
+.satu {
+  color: blue;
+  text-align: end;
+}
+.dua {
+  color: green;
+  text-align: start;
+}
+.tiga {
+  color: red;
+  text-align: end;
+}
